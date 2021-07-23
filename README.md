@@ -7,5 +7,5 @@
 
 
 
-**Here is a Screenshot of the program running in Raspverry pi**
+**Here is a Screenshot of the program running in Raspberry pi**
 ![alt text](https://github.com/devrock20/pyface/blob/main/pr2.PNG)
